@@ -1,0 +1,24 @@
+taxo_id,specie,blast_name,genbank_common_name,accession_number,mtDNA
+8945,Eudynamys scolopaceus,birds,Asian koel,NC_060520,https://www.ncbi.nlm.nih.gov/nucleotide/NC_060520.1
+7460,Apis mellifera,Bees,honey bee,NC_051932,https://www.ncbi.nlm.nih.gov/nucleotide/NC_051932.1
+36300,Pelecanus crispus,birds,Dalmatian pelican,OR620163,https://www.ncbi.nlm.nih.gov/nuccore/OR620163.1
+10116,Rattus norvegicus,Rodents,Norway rat,NC_001665,https://www.ncbi.nlm.nih.gov/nuccore/NC_001665
+9031,Gallus gallus,birds,Gallus gallus,NC_053523,https://www.ncbi.nlm.nih.gov/nuccore/NC_053523.1
+59463,Myotis lucifugus,bats,little brown bat,NC_029849,https://www.ncbi.nlm.nih.gov/nuccore/NC_029849.1
+7070,Tribolium castaneum,Insects,Tribolium castaneum,NC_003081,https://www.ncbi.nlm.nih.gov/nuccore/NC_003081
+8845,Anser cygnoides,birds,Swan goose,NC_023832,https://www.ncbi.nlm.nih.gov/nucleotide/NC_023832.1
+9940,Ovis aries,sheep,even-toed ungulates,NC_001941,https://www.ncbi.nlm.nih.gov/nuccore/NC_001941
+56313,Tyto alba,birds,common barn owl,MZ318036,https://www.ncbi.nlm.nih.gov/nuccore/MZ318036.1
+7227,Drosophila melanogaster,flies,fruit fly,NC_024511,https://www.ncbi.nlm.nih.gov/nucleotide/NC_024511.2
+8822,Apteryx australis,birds,Southern brown kiwi,MN356385,https://www.ncbi.nlm.nih.gov/nuccore/MN356385.1
+92683,Spheniscus demersus,birds,jackass penguin,NC_022817,https://www.ncbi.nlm.nih.gov/nucleotide/NC_022817.1
+85066,Corvus brachyrhynchos,birds,American crow,NC_026461,https://www.ncbi.nlm.nih.gov/nucleotide/NC_026461.1
+10090,Mus musculus,rodents,house mouse,NC_005089,https://www.ncbi.nlm.nih.gov/nuccore/NC_005089
+8790,Dromaius novaehollandiae,birds,emu,NC_002784,https://www.ncbi.nlm.nih.gov/nuccore/NC_002784
+8839,Anas platyrhynchos,birds,mallard,NC_009684,https://www.ncbi.nlm.nih.gov/nuccore/NC_009684
+132908,Pteropus vampyrus,bats,large flying fox,NC_026542,https://www.ncbi.nlm.nih.gov/nuccore/NC_026542.1
+8801,Struthio camelus,birds,African ostrich,NC_002785,https://www.ncbi.nlm.nih.gov/nuccore/NC_002785
+193005,Aquila nipalensis,hawks & eagles,steppe eagle,NC_045042,https://www.ncbi.nlm.nih.gov/nuccore/NC_045042.1
+219595,Cygnus cygnus,birds,common whooper,NC_027095,https://www.ncbi.nlm.nih.gov/nucleotide/NC_027095.1
+59729,Taeniopygia guttata,birds,zebra finch,NC_007897,https://www.ncbi.nlm.nih.gov/nucleotide/NC_007897.1
+9233,Aptenodytes forsteri,birds,emperor penguin,NC_027938,https://www.ncbi.nlm.nih.gov/nucleotide/NC_027938.1
